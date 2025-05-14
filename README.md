@@ -1,15 +1,15 @@
 🔐 Hash Functions & Password Security
 
- ### 📌 Project Title:
+ ### Project Title:
 
 **Hashing Plain Text Passwords and Performance Comparison**
 
-🧠 Project Overview
+### Project Overview
 
 This project explores the concept of password hashing using different cryptographic hash functions. It evaluates their **performance**, **security**, and **practical implementation** for password storage and verification systems.
 
 
-### 🗂 Project Agenda
+### Project Agenda
 
 1. **Synthetic Dataset Creation**
 
@@ -41,14 +41,14 @@ This project explores the concept of password hashing using different cryptograp
 
    * Validate login by hashing input and comparing it with stored hashes
 
-### 💻 Tools & Technologies Used
+### Tools & Technologies Used
 
 * Python (pandas, hashlib, bcrypt, sqlite3, matplotlib, time)
 * Jupyter Notebook
 * SQLite for lightweight database storage
 
 
-### 📊 Results
+### Results
 
 * Performance metrics were visualized to show how algorithms differ in speed and complexity.
 * **SHA-256** provides a balance between speed and security.
@@ -56,13 +56,13 @@ This project explores the concept of password hashing using different cryptograp
 * **MD5** was fastest but least secure and outdated.
 
 
-### ✅ Key Learnings
+### Key Learnings
 
 * Importance of using **strong hashing algorithms** for password storage.
 * **Trade-off** between security and performance.
 * Practical experience with **database integration**, **data simulation**, and **visual analysis**.
 
-### 🚀 How to Run
+### How to Run
 
 1. Clone this repository:
 
